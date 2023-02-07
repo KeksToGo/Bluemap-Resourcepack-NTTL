@@ -1,5 +1,7 @@
 #### Resource pack addon for Bluemap, making tree leaves non-transparent. 
 #### Supports all Bluemap versions. (1.13.2 to 1.19.3)
+#### <a href="https://modrinth.com/resourcepack/bluemap-non-transparent-leaves/settings/description"> <img alt="modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png"></a>
+
 
 Some Examples:
 ![ ](https://cdn-raw.modrinth.com/data/fG8iGgxB/images/03b852e615d3f54da1d856acd53e017a4b2ba6a0.png)
